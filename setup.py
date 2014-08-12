@@ -7,8 +7,8 @@ setup(
     name='weather',
     version='0.1',
     packages=['weather'],
-    author='',
-    author_email='',
+    author='Jacques Uber',
+    author_email='jaxbr503@gmail.com',
     url='https://github.com/hamperbot/weather',
     install_requires=requirements,
     package_data={'weather': ['requirements.txt', 'README.md', 'LICENSE']}
